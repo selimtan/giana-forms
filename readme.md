@@ -18,14 +18,6 @@ Property  | Description
 [dropdown](https://github.com/angular/angular-cli/wiki/generate-module)       | Dropdown control spesification for giana forms
 
 
-## Installation
-
-**BEFORE YOU INSTALL:** please read the [prerequisites](#prerequisites)
-```bash
-npm install giana-forms-spec
-```
-
-
 ## Simple Form Sample
 
 

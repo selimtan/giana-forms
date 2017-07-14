@@ -1,0 +1,13 @@
+
+{
+"type": "button",
+"label": "",
+"hint": "",
+"icon": "",
+"tabIndex": "0",
+"buttonType": "success",
+ // Buton tıklanıldığındaki davranış şeklidir. navigate
+"action": "navigate",
+"url": "",
+"order": "1"
+}

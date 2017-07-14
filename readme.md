@@ -13,9 +13,7 @@ Property  | Description
 [Button](https://github.com/selimtan/gianaForms/tree/master/button)     | Button control spesification for giana forms
 [Calendar](https://github.com/selimtan/gianaForms/tree/master/calendar)         | Calendar control spesification for giana forms
 [Title](https://github.com/selimtan/gianaForms/tree/master/title)         | Title control spesification for giana forms
-[datepicker](https://github.com/angular/angular-cli/wiki/generate-interface) | Datepicker control spesification for giana forms
-[texteditor](https://github.com/angular/angular-cli/wiki/generate-enum)           | Texteditor control spesification for giana forms
-[dropdown](https://github.com/angular/angular-cli/wiki/generate-module)       | Dropdown control spesification for giana forms
+
 
 
 ## Simple Form Sample

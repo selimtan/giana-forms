@@ -9,10 +9,10 @@ This form spesification contains following controls spesifications;
 
 Property  | Description
 ---       | ---
-[Textbox](https://github.com/selimtan/gianaForms/tree/master/textbox)           | Textbox control spesification for giana forms
-[Button](https://github.com/selimtan/gianaForms/tree/master/button)     | Button control spesification for giana forms
-[Calendar](https://github.com/selimtan/gianaForms/tree/master/calendar)         | Calendar control spesification for giana forms
-[Title](https://github.com/selimtan/gianaForms/tree/master/title)         | Title control spesification for giana forms
+[Textbox](https://github.com/selimtan/giana-forms/tree/master/textbox)           | Textbox control spesification for giana forms
+[Button](https://github.com/selimtan/giana-forms/tree/master/button)     | Button control spesification for giana forms
+[Calendar](https://github.com/selimtan/giana-forms/tree/master/calendar)         | Calendar control spesification for giana forms
+[Title](https://github.com/selimtan/giana-forms/tree/master/title)         | Title control spesification for giana forms
 
 
 

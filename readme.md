@@ -1,9 +1,8 @@
 # Giana Forms
 Giana forms contains json based spesifications for generating automatic forms.
-Bu spesifikasyonun temel amacı ortak bir form tanımlama standartı oluşturup tüm platformlarda bu spesifikasyonu destekleyen kütüphaneler sayesinde form tasarlamayı ve oluşturma işini platform bağızsız hale getirmektir.
-Temel özellikleri;
 
-⋅⋅* Unordered sub-list. 
+
+
 
 
 This form spesification contains following controls spesifications;

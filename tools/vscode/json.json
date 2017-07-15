@@ -1,0 +1,101 @@
+{
+	/*
+	// Place your snippets for JSON here. Each snippet is defined under a snippet name and has a prefix, body and 
+	// description. The prefix is what is used to trigger the snippet and the body will be expanded and inserted. Possible variables are:
+	// $1, $2 for tab stops, $0 for the final cursor position, and ${1:label}, ${2:another} for placeholders. Placeholders with the 
+	// same ids are connected.
+	// Example:
+	"Print to console": {
+		"prefix": "log",
+		"body": [
+			"console.log('$1');",
+			"$2"
+		],
+		"description": "Log output to console"
+	}
+*/
+	"textbox": {
+		"prefix": "gf-textbox",
+		"body": [
+			"{",
+			"\"type\": \"textbox\",",
+			"\"key\": \"$1\",",
+			"\"label\": \"$2\",",
+			"\"required\": false,",
+			"\"autocomplete\": false,",
+			"\"spellcheck\": false,",
+			"\"maxlength\": 70,",
+			"\"tabindex\": 0,",
+			"\"order\": 1",
+			"}$3"
+		],
+		"description": "textbox snipped for giana forms"
+	},
+	"title": {
+		"prefix": "gf-title",
+		"body": [
+			"{",
+			"\"type\": \"title\",",
+			"\"key\": \"$1\",",
+			"\"title\": \"$2\",",
+			"\"subtitle\": \"$3\",",
+			"\"order\": 1",
+			"}$4"
+		],
+		"description": "title snipped for giana forms"
+	},
+	"form_post": {
+		"prefix": "gf-form_post",
+		"body": [
+			"{",
+			"\"title\": \"$1\",",
+			"\"postUrl\": \"$2\",",
+			"\"controls\": [",
+			"$3",
+			"]",
+			"}"
+		],
+		"description": "title snipped for giana forms"
+	},
+	"form_list": {
+		"prefix": "gf-form_list",
+		"body": [
+			"{",
+			"\"title\": \"$1\",",
+			"\"controls\": [",
+			"$3",
+			"]",
+			"}"
+		],
+		"description": "title snipped for giana forms"
+	},
+	"gf-grid": {
+		"prefix": "gf-grid",
+		"body": [
+			"{",
+			"\"type\": \"grid\",",
+			"// Gridin verilerinin alınacağı url adresidir",
+			"\"dataUrl\": \"$1\"",
+			"}$2"
+		],
+		"description": "title snipped for giana forms"
+	},
+	"button": {
+		"prefix": "gf-button",
+		"body": [
+			"{",
+			"\"type\": \"button\",",
+			"\"label\": \"$1\",",
+			"\"hint\": \"$2\",",
+			"\"icon\": \"$3\",",
+			"\"tabIndex\": \"0\",",
+			"\"buttonType\": \"success\",",
+			" // Buton tıklanıldığındaki davranış şeklidir. navigate",
+			"\"action\": \"navigate\",",
+			"\"url\": \"$5\",",
+			"\"order\": \"1\"",
+			"}"
+		],
+		"description": "title snipped for giana forms"
+	}
+}

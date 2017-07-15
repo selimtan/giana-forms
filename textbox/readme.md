@@ -5,6 +5,8 @@ The TextBox is a control that enables a user to enter and edit a single line of 
  {
     "type": "textbox",
     "key": "",
+    "value":"",
+    "value$":"",
     "label": "",
     "label$":"",
     "hint":"",

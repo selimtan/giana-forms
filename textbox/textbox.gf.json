@@ -9,6 +9,7 @@
     "hint$":"",
     "mask":"",
     "mask$":"",
+    "maskChar":"_",
     "placeholder":"",
     "placeholder$":"",
     "disabled":false,

@@ -11,7 +11,7 @@ Property  | Description
 ---       | ---
 [Button](https://github.com/selimtan/giana-forms/tree/master/button)     | Button control spesification for giana forms
 [Datebox](https://github.com/selimtan/giana-forms/tree/master/calendar)           | Date control spesification for giana forms
-[Datasource](https://github.com/selimtan/giana-forms/tree/master/textbox)           | Data source spesification for giana forms
+[Datasource](https://github.com/selimtan/giana-forms/tree/master/datasource)           | Data source spesification for giana forms
 [Dropdown](https://github.com/selimtan/giana-forms/tree/master/textbox)           | Dropdown control spesification for giana forms
 [Form](https://github.com/selimtan/giana-forms/tree/master/textbox)           | Form spesification for giana forms
 [Grid](https://github.com/selimtan/giana-forms/tree/master/textbox)           | Grid control spesification for giana forms

@@ -2,8 +2,10 @@
 # Button
 The Button control is a simple button that performs specified commands when a user clicks it.
 
-  "type": "button",
-    "[key](https://github.com/selimtan/giana-forms/tree/master/textbox)":"",
+```json
+{
+    "type": "button",
+    "key":"",
     "label": "",
     "label$":"",
     "hint": "",
@@ -22,7 +24,8 @@ The Button control is a simple button that performs specified commands when a us
     "height": "",
     "width":"",
     "order": "1"
-
+}
+```
 
 ### type
 Type of control. In this case it is textbox.

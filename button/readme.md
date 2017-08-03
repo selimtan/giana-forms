@@ -5,7 +5,7 @@ The Button control is a simple button that performs specified commands when a us
 ```json
 {
     "type": "button",
-    "key":"",
+    "[key](https://github.com/selimtan/giana-forms/tree/master/textbox)":"",
     "label": "",
     "label$":"",
     "hint": "",

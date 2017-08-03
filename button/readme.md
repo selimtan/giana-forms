@@ -28,7 +28,7 @@ The Button control is a simple button that performs specified commands when a us
 ```
 
 ### type
-Type of control. In this case it is textbox.
+Type of control. In this case it is button.
 
 ### key
 Data key for this control.

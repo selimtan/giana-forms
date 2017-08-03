@@ -19,8 +19,10 @@ The Button control is a simple button that performs specified commands when a us
     "buttontype": "success",
     "buttontype$": "",
     "action": "navigate",
-    "url": "",
+    "click$": [""],
     "tabIndex": "0",
+    "height": "",
+    "width":"",
     "order": "1"
 }
 ```

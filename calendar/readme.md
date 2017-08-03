@@ -4,7 +4,7 @@ The Calendar is a control that displays a calendar and allows an end user to sel
 
 ```json
  {
-    "type": "calendar",
+    "type": "date",
     "key": "",
     "label": "",
     "label$":"",

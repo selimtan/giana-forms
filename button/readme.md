@@ -70,10 +70,10 @@ Specifies the button type.
 Expression for buttontype property. See more detail to [expressions](https://github.com/selimtan/gianaForms/tree/master/expressions.md).  
 
 ### action
----
+
 
 ### url
----
+
 
 ### tabindex
 Specifies the number of the element when the Tab key is used for navigating.
